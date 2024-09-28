@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my first Git Repository
-AUTHOR - Divsimrat Kaur
+This is my first Git Repository.
+Author - Divsimrat Kaur
+
